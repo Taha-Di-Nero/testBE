@@ -2,15 +2,16 @@
   PostgrSql 9.4+
 
 # Build
-  - Set the datasource url, user and password in appliction.properties.
-  - Execute at the project root folder the following command:
+  Set the datasource url, user and password in appliction.properties.
   
-    'mvn clean install'
+  Execute at the project root folder the following command:
+  
+    mvn clean install
     
 # Run
   Execute at the project root folder the following command:
   
-    'mvn spring-boot:run'
+    mvn spring-boot:run
     
 # Test
   Navigate to http://localhost:8080/swagger-ui.html
