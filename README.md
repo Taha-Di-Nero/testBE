@@ -2,6 +2,7 @@
   PostgrSql 9.4+
 
 # Build
+  Set the datasource url, user and password in appliction.properties.
   Execute at the project root folder the following command:
     'mvn clean install'
     
