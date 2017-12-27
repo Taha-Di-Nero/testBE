@@ -3,11 +3,11 @@
 
 # Build
   Execute at the project root folder the following command:
-    mvn clean install
+    'mvn clean install'
     
 # Run
   Execute at the project root folder the following command:
-    mvn spring-boot:run
+    'mvn spring-boot:run'
     
 # Test
   Navigate to http://localhost:8080/swagger-ui.html
