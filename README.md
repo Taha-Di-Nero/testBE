@@ -1,2 +1,16 @@
-# testBE
-Test
+# Dependencies
+  PostgrSql 9.4+
+
+# Build
+  Execute at the project root folder the following command:
+    mvn clean install
+    
+# Run
+  Execute at the project root folder the following command:
+    mvn spring-boot:run
+    
+# Test
+  Navigate to http://localhost:8080/swagger-ui.html
+  For upload use Excel 2003 format(xls) with no headers, you can use 'sections.xls' present in the repository.
+  
+  
